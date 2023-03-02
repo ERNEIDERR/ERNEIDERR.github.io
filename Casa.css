@@ -195,7 +195,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 638px;
-  background-image: url("images/11.png");
+  background-image: url("images/1.jpeg");
   background-position: 0% 50%;
 }
 
@@ -417,7 +417,7 @@
     font-size: 1.5rem;
   }
 } .u-section-4 {
-  background-image: url("images/pexelsphoto218863.jpeg");
+  background-image: url("images/2.jpeg");
   background-position: 50% 50%;
 }
 
@@ -914,4 +914,8 @@
   .u-section-7 .u-text-2 {
     font-size: 1.5rem;
   }
+}
+.button{
+  background-color: #e72e36;
+
 }
